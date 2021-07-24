@@ -1,0 +1,63 @@
+{
+  "_from": "@syncfusion/ej2-icons@*",
+  "_id": "@syncfusion/ej2-icons@18.4.30",
+  "_inBundle": false,
+  "_integrity": "sha512-XOu1bZQ7zuJ1Vkp2V30eTg1thSoZn/+4TQ12azM/8BfnlZDt9UHo+9TW/YNcP65NXFYZPsxgq+jFAGS6LAcWJA==",
+  "_location": "/@syncfusion/ej2-icons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@syncfusion/ej2-icons@*",
+    "name": "@syncfusion/ej2-icons",
+    "escapedName": "@syncfusion%2fej2-icons",
+    "scope": "@syncfusion",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "/",
+    "/@syncfusion/ej2",
+    "/@syncfusion/ej2-angular-base",
+    "/@syncfusion/ej2-base"
+  ],
+  "_resolved": "http://nexus.syncfusion.com/repository/ej2-hotfix/@syncfusion/ej2-icons/-/ej2-icons-18.4.30.tgz",
+  "_shasum": "daf03ebbee758c8b61833d967709969c219a6af1",
+  "_spec": "@syncfusion/ej2-icons@*",
+  "_where": "/jenkins/workspace/automation_release_18.4.0.1-WOJ6QVY6EU5ONBWOYGQFKS2VU2UW7E67MOXUPKCE5AX7QQX7M5JQ/packages/included",
+  "author": {
+    "name": "Syncfusion Inc."
+  },
+  "bugs": {
+    "url": "https://github.com/syncfusion/ej2-icons/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A common package of Essential JS 2 base64 embed icons library",
+  "devDependencies": {},
+  "homepage": "https://www.syncfusion.com/products/javascript",
+  "keywords": [
+    "ej2",
+    "syncfusion",
+    "ej2-icons",
+    "web-components",
+    "icons",
+    "base64",
+    "embed-icons",
+    "embed",
+    "library",
+    "theme",
+    "styles"
+  ],
+  "license": "SEE LICENSE IN license",
+  "name": "@syncfusion/ej2-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syncfusion/ej2-icons.git"
+  },
+  "typings": "index.d.ts",
+  "version": "18.4.39",
+  "sideEffects": false
+}

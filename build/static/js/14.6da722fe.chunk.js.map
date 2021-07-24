@@ -1,0 +1,1 @@
+{"version":3,"sources":["jsx/layouts/Ext.js"],"names":["Ext"],"mappings":"gGAAA,uBAMeA,UAJH,WACT,OAAO","file":"static/js/14.6da722fe.chunk.js","sourcesContent":["import React from \"react\";\n\nconst Ext = () => {\n   return <div></div>;\n};\n\nexport default Ext;\n"],"sourceRoot":""}
